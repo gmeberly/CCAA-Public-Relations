@@ -111,7 +111,7 @@ section {
 }
 
 @media (max-width: 680px) {
-  header main .Intro .Description nav img {
+  header main .Intro .Description nav img table{
     width: 100%;
     display: inline;
     object-fit: cover;
